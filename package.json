@@ -1,5 +1,5 @@
 {
-  "name": "flagit",
+  "name": "flagit-pd",
   "version": "2.0.6",
   "description": "",
   "main": "dist/index.cjs.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tusharjo/flagit.git"
+    "url": "git+https://github.com/paidtabs/flagit-pd.git"
   },
   "keywords": [
     "react-component",
@@ -30,9 +30,9 @@
   "author": "Tushar J",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tusharjo/flagit/issues"
+    "url": "https://github.com/paidtabs/flagit-pd/issues"
   },
-  "homepage": "https://github.com/tusharjo/flagit#readme",
+  "homepage": "https://github.com/paidtabs/flagit-pd#readme",
   "peerDependencies": {
     "react": ">=16.9.0",
     "react-dom": ">=16.9.0"
