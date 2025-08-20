@@ -1,4 +1,4 @@
-# Flagit-pd 🇸🇪
+# Flagit-pd 🇸🇪 (Improved flags quality)
 
 Flagit is the smallest npm package to display flags from about 242 supported
 countries that can be used as a react component.
